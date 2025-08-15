@@ -1,0 +1,18 @@
+# Visual Snake Game Requirements
+# This project uses only Python built-in modules for maximum compatibility
+
+# Core Dependencies (Built-in modules):
+# - os (Operating system interface)
+# - time (Time-related functions)
+# - random (Generate random numbers)
+# - msvcrt (Windows-specific console I/O)
+# - enum (Support for enumerations)
+
+# No external dependencies required!
+# Python 3.6+ is sufficient to run this game.
+
+# Optional development dependencies (uncomment if needed):
+# pytest>=6.0.0          # For unit testing
+# flake8>=3.8.0          # For code linting
+# black>=21.0.0          # For code formatting
+# mypy>=0.800            # For type checking

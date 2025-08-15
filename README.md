@@ -1,10 +1,20 @@
 # 🐍✨ Visual Snake Game ✨🐍
 
-A stunning, colorful terminal-based Snake game with amazing graphics and smooth animations!
+<div align="center">
+
+**A stunning, colorful terminal-based Snake game with amazing graphics and smooth animations!**
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-stable-success.svg)
+![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
+
+[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/visual-snake-game.svg?style=social&label=Star)](https://github.com/YOUR_USERNAME/visual-snake-game)
+[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/visual-snake-game.svg?style=social&label=Fork)](https://github.com/YOUR_USERNAME/visual-snake-game)
+
+</div>
 
 ## 🌟 Features
 
@@ -97,9 +107,14 @@ The game features:
 ### Files Structure
 ```
 visual-snake-game/
-├── README.md
-├── snake_game_visual.py    # Main enhanced version with colors
-└── snake_game_windows.py   # Basic version (fallback)
+├── README.md                  # Comprehensive project documentation
+├── CHANGELOG.md              # Version history and release notes
+├── CONTRIBUTING.md           # Contribution guidelines
+├── LICENSE                   # MIT license file
+├── requirements.txt          # Project dependencies
+├── .gitignore               # Git ignore patterns
+├── snake_game_visual.py     # Main enhanced version with colors
+└── snake_game_windows.py    # Basic version (fallback)
 ```
 
 ### Game Logic
